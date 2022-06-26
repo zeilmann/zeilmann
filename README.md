@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zeilmann
-- 👀 I’m interested in JavaScritp and Node>js
+- 👀 I’m interested in JavaScritp and Node.JS
 - 🌱 I’m currently learning Php
-- 💞️ I’m looking to collaborate on JavaScript
+- 💞️ I’m looking to collaborate on Node.JS
 - 📫 How to reach me augustozeilmann.com.br
 
 <!---
