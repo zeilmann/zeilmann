@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @zeilmann
+- 👋 Hi, I’m @zeilmann, I'm a Senior Front End Developer at Medosync
 - 👀 I’m interested in Vue.Js and Node.JS
-- 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on Node.JS
-- 📫 How to reach me augustozeilmann.dev.br
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on Node.JS and Vue.Js
+- 📫 How to reach me augustobz@gmail.com
 
 <!---
 zeilmann/zeilmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
